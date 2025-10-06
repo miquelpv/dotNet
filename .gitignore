@@ -70,3 +70,8 @@ nunit-*.xml
 # Other temporary files
 *.wsuo
 *.json.user
+
+
+# connection appsettings
+appsettings.json
+appsettings.Development.json
