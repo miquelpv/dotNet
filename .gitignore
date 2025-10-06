@@ -52,3 +52,21 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# Visual Studio cache and settings
+.vs/
+*.vscode/
+*.user
+*.suo
+*.sln.docstates
+*.vsidx
+
+# Visual Studio database/cache files
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+
+# Other temporary files
+*.wsuo
+*.json.user
